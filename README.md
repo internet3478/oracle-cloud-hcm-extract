@@ -9,7 +9,7 @@ The XML results are stored in the folder of your choice.
 
 There is a pre-requisite, it needs a properties file (filename is "properties.txt").
 Fill it with the following key/values:
-environment=<pod>.fa.<cloud-region>.oraclecloud.com
+environment=<pod>.fa.<cloud-region>.oraclecloud.com<br />
 username=<username>
 password=<password>
 extract-name=<process-flow-name>
