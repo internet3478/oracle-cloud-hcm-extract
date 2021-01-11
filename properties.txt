@@ -1,0 +1,17 @@
+﻿environment=
+username=
+password=
+extract-name=
+effective-date=
+changes-only=N
+output-folder=
+custom-parameters-1=Effective Date=2021-01-01;
+custom-parameters-2=
+custom-parameters-3=
+custom-parameters-4=
+custom-parameters-5=
+custom-parameters-6=
+custom-parameters-7=
+custom-parameters-8=
+custom-parameters-9=
+ldg=
