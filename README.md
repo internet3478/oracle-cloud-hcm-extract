@@ -9,15 +9,15 @@ The XML results are stored in the folder of your choice.<br /><br />
 
 There is a pre-requisite, it needs a properties file (filename is "properties.txt").<br />
 Fill it with the following key/values:<br />
-environment=<pod>.fa.<cloud-region>.oraclecloud.com<br />
-username=<username><br />
-password=<password><br />
-extract-name=<process-flow-name><br />
-effective-date=<yyyy-mm-dd><br />
-changes-only=<N|Y|ATTRIBUTE|ATTRIBUTE_OLD|BLOCK|BLOCK_OLD><br />
-output-folder=<ex: c:\output-folder><br />
-custom-parameters-1=<ex: Effective Date=2021-01-01;Person Number=12345><br />
-custom-parameters-2=<additional-sequential-invokation><br />
+environment=(pod).fa.(cloud-region).oraclecloud.com<br />
+username=(username)<br />
+password=(password)<br />
+extract-name=(process-flow-name)<br />
+effective-date=(yyyy-mm-dd)<br />
+changes-only=(N|Y|ATTRIBUTE|ATTRIBUTE_OLD|BLOCK|BLOCK_OLD)<br />
+output-folder=(ex: c:\output-folder)<br />
+custom-parameters-1=(ex: Effective Date=2021-01-01;Person Number=12345)<br />
+custom-parameters-2=(additional-sequential-invokation)<br />
 custom-parameters-3=<br />
 custom-parameters-4=<br />
 custom-parameters-5=<br />
